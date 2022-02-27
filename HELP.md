@@ -1,9 +1,11 @@
-# Getting Started
+https://github.com/dsyer/spring-boot-angular
 
-### Reference Documentation
-For further reference, please consider the following sections:
+https://hpareek.hashnode.dev/serving-angular-app-from-spring-boot-server-for-secure-oauth-flow
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.4/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.4/maven-plugin/reference/html/#build-image)
+https://spring.io/guides/tutorials/spring-security-and-angular-js/
 
+mvn spring-boot:run
+
+mvn package
+
+java -jar target/*.jar

@@ -1,0 +1,6 @@
+#!/bin/sh
+cd $(dirname $0)
+
+PATH="$PWD/node/":$PATH
+echo "a, " "$@"
+node "node/node_modules/npm/bin/npm-cli.js" "$@"
